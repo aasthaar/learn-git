@@ -1,0 +1,6 @@
+i have to do the following tasks today:
+1. add nav-bar
+2. add index.html
+3. add an about section
+
+that's it
